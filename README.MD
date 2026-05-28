@@ -32,6 +32,14 @@ GS_DYNAMIC_PROGRAMMING/
 │   ├── raw/                  # Dados brutos de entrada (NDVI, pluviometria)
 │   └── processed/            # Grafos e árvores serializados (JSON/pickle)
 │
+│
+├── notebooks/
+│   └──analise_resultados.ipynb
+│
+├── report/
+│   └──relatorio final.pdf
+│
+│
 ├── src/
 │   ├── data_structures.py    # Implementação da BST e do Grafo
 │   ├── brute_force.py        # Algoritmo de Força Bruta (Backtracking DFS)
