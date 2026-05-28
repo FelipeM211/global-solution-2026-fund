@@ -77,3 +77,8 @@ python src/performance_monitor.py
 ```bash
 pytest tests/test_algorithms.py -v
 ```
+
+### 4. Executar os arquivos.py
+```bash
+python src/[nome do arquivo.py]
+```
