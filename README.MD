@@ -1,5 +1,4 @@
 # Global Solution 2026 — Economia Espacial
-
 ## Disciplina: Estruturas de Dados e Algoritmos
 **Professor:** André Marques  
 **Turma:** Engenharia de Software (3º Semestre)  
@@ -25,20 +24,18 @@ Este projeto consiste em um sistema de monitoramento de riscos ambientais e otim
 ---
 
 ## 📂 Estrutura do Projeto
-```text
+```
 GS_DYNAMIC_PROGRAMMING/
 │
 ├── data/
 │   ├── raw/                  # Dados brutos de entrada (NDVI, pluviometria)
 │   └── processed/            # Grafos e árvores serializados (JSON/pickle)
 │
-│
 ├── notebooks/
-│   └──analise_resultados.ipynb
+│   └── analise_resultados.ipynb
 │
 ├── report/
-│   └──relatorio final.pdf
-│
+│   └── relatorio_final.pdf
 │
 ├── src/
 │   ├── data_structures.py    # Implementação da BST e do Grafo
@@ -48,12 +45,12 @@ GS_DYNAMIC_PROGRAMMING/
 │   └── visualizations.py     # Renderização gráfica dos cenários com NetworkX
 │
 ├── tests/
-│   └──test_algorithms.py    # Suíte de testes unitários automatizados (pytest)
-│
+│   └── test_algorithms.py    # Suíte de testes unitários automatizados (pytest)
 │
 ├── Relatorio Tecnico.pdf
-├── README.MD                 # Documentação do projeto (este arquivo)
+├── README.md                 # Documentação do projeto (este arquivo)
 └── requirements.txt          # Lista de dependências do Python
+```
 
 ## 🛠️ Tecnologias e Dependências
 O projeto utiliza as seguintes bibliotecas do ecossistema Python:
@@ -69,13 +66,14 @@ O projeto utiliza as seguintes bibliotecas do ecossistema Python:
 Abra o terminal na pasta raiz do projeto e execute:
 ```bash
 pip install -r requirements.txt
+```
 
 ### 2. Executar a Simulação Principal
-Para rodar a simulação dos cenários, exibir os rankings de risco da BST, as métricas comparativas de desempenho (tempo, memória e operações) e abrir as janelas gráficas com as rotas destacadas em vermelho:
 ```bash
-python GS.py
+python src/performance_monitor.py
+```
 
 ### 3. Executar os Testes Automatizados
-Para rodar a suíte de testes unitários e garantir que todas as estruturas de dados e algoritmos estão funcionando perfeitamente:
 ```bash
-pytest src/test_algorithms.py -v
+pytest tests/test_algorithms.py -v
+```
