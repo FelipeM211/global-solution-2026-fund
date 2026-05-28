@@ -51,6 +51,7 @@ GS_DYNAMIC_PROGRAMMING/
 │   └──test_algorithms.py    # Suíte de testes unitários automatizados (pytest)
 │
 │
+├── Relatorio Tecnico.pdf
 ├── README.MD                 # Documentação do projeto (este arquivo)
 └── requirements.txt          # Lista de dependências do Python
 
