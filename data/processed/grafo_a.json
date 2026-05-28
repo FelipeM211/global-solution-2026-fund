@@ -1,0 +1,28 @@
+{
+  "Porto Alegre": {
+    "Canoas": 10,
+    "Gravataí": 25
+  },
+  "Canoas": {
+    "Porto Alegre": 10,
+    "São Leopoldo": 30,
+    "Novo Hamburgo": 35
+  },
+  "São Leopoldo": {
+    "Canoas": 30,
+    "Novo Hamburgo": 8
+  },
+  "Novo Hamburgo": {
+    "Canoas": 35,
+    "São Leopoldo": 8,
+    "Caxias do Sul": 80
+  },
+  "Gravataí": {
+    "Porto Alegre": 25,
+    "Caxias do Sul": 120
+  },
+  "Caxias do Sul": {
+    "Novo Hamburgo": 80,
+    "Gravataí": 120
+  }
+}

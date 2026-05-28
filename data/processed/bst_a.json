@@ -1,0 +1,31 @@
+{
+  "chave": 82,
+  "dados": "São Leopoldo",
+  "esquerda": {
+    "chave": 60,
+    "dados": "Caxias do Sul",
+    "esquerda": null,
+    "direita": {
+      "chave": 78,
+      "dados": "Novo Hamburgo",
+      "esquerda": null,
+      "direita": null
+    }
+  },
+  "direita": {
+    "chave": 88,
+    "dados": "Canoas",
+    "esquerda": {
+      "chave": 85,
+      "dados": "Gravataí",
+      "esquerda": null,
+      "direita": null
+    },
+    "direita": {
+      "chave": 95,
+      "dados": "Porto Alegre",
+      "esquerda": null,
+      "direita": null
+    }
+  }
+}

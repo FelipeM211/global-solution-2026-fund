@@ -1,0 +1,56 @@
+{
+  "Balsas": {
+    "Imperatriz": 200,
+    "Alto Parnaíba": 300
+  },
+  "Imperatriz": {
+    "Balsas": 200,
+    "Araguaína": 120,
+    "Riachão": 180
+  },
+  "Alto Parnaíba": {
+    "Balsas": 300,
+    "Riachão": 150
+  },
+  "Araguaína": {
+    "Imperatriz": 120,
+    "Palmas": 180,
+    "Cristalândia": 250
+  },
+  "Riachão": {
+    "Imperatriz": 180,
+    "Alto Parnaíba": 150,
+    "Luís Eduardo Magalhães": 350
+  },
+  "Palmas": {
+    "Araguaína": 180,
+    "Cristalândia": 100,
+    "Formoso do Araguaia": 200
+  },
+  "Cristalândia": {
+    "Araguaína": 250,
+    "Palmas": 100,
+    "Formoso do Araguaia": 60
+  },
+  "Formoso do Araguaia": {
+    "Palmas": 200,
+    "Cristalândia": 60,
+    "Uruçuí": 400
+  },
+  "Uruçuí": {
+    "Formoso do Araguaia": 400,
+    "Bom Jesus": 150
+  },
+  "Bom Jesus": {
+    "Uruçuí": 150,
+    "Barreiras": 250
+  },
+  "Barreiras": {
+    "Bom Jesus": 250,
+    "Luís Eduardo Magalhães": 80
+  },
+  "Luís Eduardo Magalhães": {
+    "Barreiras": 80,
+    "Riachão": 350
+  }
+}

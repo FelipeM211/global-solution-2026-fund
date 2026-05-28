@@ -1,0 +1,61 @@
+{
+  "chave": 60,
+  "dados": "Uruçuí",
+  "esquerda": {
+    "chave": 45,
+    "dados": "Formoso do Araguaia",
+    "esquerda": {
+      "chave": 35,
+      "dados": "Alto Parnaíba",
+      "esquerda": null,
+      "direita": {
+        "chave": 40,
+        "dados": "Riachão",
+        "esquerda": null,
+        "direita": null
+      }
+    },
+    "direita": {
+      "chave": 50,
+      "dados": "Cristalândia",
+      "esquerda": null,
+      "direita": {
+        "chave": 55,
+        "dados": "Bom Jesus",
+        "esquerda": null,
+        "direita": null
+      }
+    }
+  },
+  "direita": {
+    "chave": 75,
+    "dados": "Balsas",
+    "esquerda": {
+      "chave": 65,
+      "dados": "Araguaína",
+      "esquerda": null,
+      "direita": {
+        "chave": 70,
+        "dados": "Palmas",
+        "esquerda": null,
+        "direita": null
+      }
+    },
+    "direita": {
+      "chave": 85,
+      "dados": "Luís Eduardo Magalhães",
+      "esquerda": {
+        "chave": 80,
+        "dados": "Imperatriz",
+        "esquerda": null,
+        "direita": null
+      },
+      "direita": {
+        "chave": 90,
+        "dados": "Barreiras",
+        "esquerda": null,
+        "direita": null
+      }
+    }
+  }
+}

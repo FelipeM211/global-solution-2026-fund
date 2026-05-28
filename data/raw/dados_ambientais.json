@@ -1,0 +1,84 @@
+{
+  "municipios": [
+    {
+      "municipio": "Porto Alegre",
+      "uf": "RS",
+      "cenario": "A",
+      "ndvi": 0.72,
+      "pluviometria_mm": 1400,
+      "malha_viaria_km": 350
+    },
+    {
+      "municipio": "Caxias do Sul",
+      "uf": "RS",
+      "cenario": "A",
+      "ndvi": 0.65,
+      "pluviometria_mm": 1600,
+      "malha_viaria_km": 280
+    },
+    {
+      "municipio": "Pelotas",
+      "uf": "RS",
+      "cenario": "A",
+      "ndvi": 0.68,
+      "pluviometria_mm": 1350,
+      "malha_viaria_km": 200
+    },
+    {
+      "municipio": "Santa Maria",
+      "uf": "RS",
+      "cenario": "A",
+      "ndvi": 0.70,
+      "pluviometria_mm": 1500,
+      "malha_viaria_km": 220
+    },
+    {
+      "municipio": "Passo Fundo",
+      "uf": "RS",
+      "cenario": "A",
+      "ndvi": 0.66,
+      "pluviometria_mm": 1450,
+      "malha_viaria_km": 180
+    },
+    {
+      "municipio": "Imperatriz",
+      "uf": "MA",
+      "cenario": "B",
+      "ndvi": 0.82,
+      "pluviometria_mm": 1800,
+      "malha_viaria_km": 150
+    },
+    {
+      "municipio": "Palmas",
+      "uf": "TO",
+      "cenario": "B",
+      "ndvi": 0.78,
+      "pluviometria_mm": 1700,
+      "malha_viaria_km": 120
+    },
+    {
+      "municipio": "Teresina",
+      "uf": "PI",
+      "cenario": "B",
+      "ndvi": 0.80,
+      "pluviometria_mm": 1300,
+      "malha_viaria_km": 180
+    },
+    {
+      "municipio": "Barreiras",
+      "uf": "BA",
+      "cenario": "B",
+      "ndvi": 0.75,
+      "pluviometria_mm": 1200,
+      "malha_viaria_km": 160
+    },
+    {
+      "municipio": "Balsas",
+      "uf": "MA",
+      "cenario": "B",
+      "ndvi": 0.79,
+      "pluviometria_mm": 1500,
+      "malha_viaria_km": 90
+    }
+  ]
+}
