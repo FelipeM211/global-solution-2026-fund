@@ -1,14 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-FIAP - Engenharia de Software (3º Semestre)
-Disciplina: Estruturas de Dados e Algoritmos
-Estudante: Felipe B Murad
-
-brute_force.py - Algoritmo de Força Bruta (Backtracking DFS com Poda)
-Alinhamento com as ODS da ONU:
-- ODS 9 (Indústria, Inovação e Infraestrutura): Análise de caminhos ótimos absolutos.
-"""
-
 from data_structures import Grafo
 
 def forca_bruta(grafo: Grafo, origem: str, destino: str):
