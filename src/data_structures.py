@@ -1,15 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-FIAP - Engenharia de Software (3º Semestre)
-Disciplina: Estruturas de Dados e Algoritmos
-Estudante: Felipe B Murad
-
-data_structures.py - Modelagem das Estruturas de Dados
-Alinhamento com as ODS da ONU:
-- ODS 11 (Cidades Sustentáveis): BST classifica riscos de enchentes no RS.
-- ODS 2 (Fome Zero): Grafo mapeia rotas de distribuição contra a seca no MATOPIBA.
-"""
-
 class BSTNode:
     """Nó da Árvore Binária de Busca (BST)."""
     def __init__(self, chave, dados):
