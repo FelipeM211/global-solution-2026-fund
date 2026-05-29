@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-FIAP - Engenharia de Software (3º Semestre)
-Disciplina: Estruturas de Dados e Algoritmos
-Estudante: Felipe B Murad
-
-performance_monitor.py - Monitoramento de Desempenho
-Seção 4 do edital: testes com N = 5, 8, 10, 12, 20, 50, 100 vértices.
-"""
-
 import time
 import tracemalloc
 import random
