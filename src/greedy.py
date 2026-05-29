@@ -1,14 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-FIAP - Engenharia de Software (3º Semestre)
-Disciplina: Estruturas de Dados e Algoritmos
-Estudante: Felipe B Murad
-
-greedy.py - Algoritmo Guloso (Dijkstra)
-Alinhamento com as ODS da ONU:
-- ODS 9 (Indústria, Inovação e Infraestrutura): Roteamento eficiente de alta escala.
-"""
-
 import heapq
 from data_structures import Grafo
 
