@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-FIAP - Engenharia de Software (3º Semestre)
-Disciplina: Estruturas de Dados e Algoritmos
-Estudante: Felipe B Murad
-
-visualizations.py - Geração de Figuras Obrigatórias
-Seção 6: grafo com MST, BST (13 nós), comparativo e gap de otimalidade.
-"""
-
 import sys
 import os
 import networkx as nx
